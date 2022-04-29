@@ -1,0 +1,93 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "468613",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "592049",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e790",
+      "unicode_decimal": 59280
+    },
+    {
+      "icon_id": "986225",
+      "name": "微博",
+      "font_class": "weibo-copy",
+      "unicode": "e65a",
+      "unicode_decimal": 58970
+    },
+    {
+      "icon_id": "1010173",
+      "name": "用户",
+      "font_class": "yonghu",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "2076266",
+      "name": "扫一扫",
+      "font_class": "saoyisao",
+      "unicode": "e891",
+      "unicode_decimal": 59537
+    },
+    {
+      "icon_id": "4084620",
+      "name": "验证码",
+      "font_class": "yanzhengma",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "6201311",
+      "name": "二维码",
+      "font_class": "erweima1",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "7697896",
+      "name": "电脑登录",
+      "font_class": "diannaodenglu",
+      "unicode": "e665",
+      "unicode_decimal": 58981
+    },
+    {
+      "icon_id": "15933089",
+      "name": "支付宝",
+      "font_class": "zhifubao",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "17448867",
+      "name": "手机",
+      "font_class": "shouji",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "26199507",
+      "name": "锁头",
+      "font_class": "suotou",
+      "unicode": "e6bf",
+      "unicode_decimal": 59071
+    },
+    {
+      "icon_id": "28464356",
+      "name": "电脑登陆",
+      "font_class": "diannaodenglu1",
+      "unicode": "e6c5",
+      "unicode_decimal": 59077
+    }
+  ]
+}
